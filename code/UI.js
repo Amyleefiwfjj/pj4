@@ -172,7 +172,7 @@ setTimeout(function () {
 
     // Button click event to navigate to index.html
     startButton.mousePressed(function () {
-        window.location.href = "index.html";
+        window.location.href = "UI.html";
     });
 
     console.log("Start button created!");
